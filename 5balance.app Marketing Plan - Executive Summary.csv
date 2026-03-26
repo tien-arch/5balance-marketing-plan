@@ -1,0 +1,22 @@
+,,,,
+,,,,
+,Vấn đề 5Balance.app giải quyết,"Thế hệ Millennials (28–35 tuổi) tại Việt Nam đang đối mặt với khủng hoảng định hướng: mất phương hướng sự nghiệp, xung đột trong các mối quan hệ, và thiếu một hệ thống ra quyết định đáng tin cậy. Họ bị kẹt giữa hai thái cực:
+
+- Thầy bát tự truyền thống: Chất lượng cao nhưng đắt (vài triệu/buổi), chờ lịch lâu và không thể scale.
+- App tử vi/tâm lý phổ thông (MBTI, Co-Star): Dễ tiếp cận nhưng quá nông — chỉ phản ánh trạng thái ""tĩnh"", không có chiều thời gian và không đưa ra hành động cụ thể.
+
+=> Khoảng trống thị trường là một giải pháp kết hợp độ chính xác của chuyên gia với sự tiện lợi của công nghệ, được cá nhân hóa hoàn toàn bằng AI.",,
+,,,,
+,Giải Pháp & Định Vị Cốt Lõi,"5Balance không phải là 1 ứng dụng bói toán.
+
+5Balance là một Agentic Spiritual SaaS — ""Hệ điều hành cho cuộc sống"" (OS for Life) — giúp người dùng tối ưu hóa các quyết định quan trọng trong sự nghiệp, hôn nhân và tài chính thông qua logic Bát tự 3 lớp kết hợp Trí tuệ Nhân tạo.
+
+Sản phẩm không ""đọc vận"" — sản phẩm lập chiến lược cho cuộc đời người dùng.",,
+,,,,
+,Hệ Sinh Thái Sản Phẩm (Zeus Architecture),,,
+,Tầng,Sản phẩm,Vai trò,Giá
+,1,ZEUS,"Động lực doanh thu — Báo cáo phân tích sâu 10 năm, 3 lớp Bát tự	","~500,000VND/credit/full report"
+,2,ARTEMIS,Phễu thu hút — Mini-tools: Love Match · Career Weather · Wealth Luck	,"50,000 - 200,000 VND"
+,3,TITAN,Hạ tầng AI — Bazi Math + LLM + GraphRAG + Expert Knowledge Base	,Backend
+,4,CUPID,Giữ chân — Chatbot AI coach cá nhân hóa 24/7	,Tích hợp/Subscription
+,5,ATHENA,"Quản trị — Funnel analytics, A/B testing, admin dashboard	",Internal
