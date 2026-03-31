@@ -1,0 +1,57 @@
+# Buyer Persona
+
+## Persona 1 — "Ngã Rẽ" · The Crossroads Achiever
+
+| Thuộc tính | Chi tiết |
+|---|---|
+| Độ tuổi | 29–33 |
+| Nghề nghiệp | Quản lý cấp trung · Freelancer lâu năm · Startup founder |
+| Vấn đề cốt lõi | Đứng trước quyết định lớn (nhảy việc, mở công ty, kết hôn) nhưng không có cơ sở logic để tin vào bản thân |
+| Động lực | Tìm kiếm xác nhận từ dữ liệu để giảm bớt lo âu khi ra quyết định |
+| Rào cản hiện tại | Thầy bát tự đắt + chờ lâu; MBTI chỉ là "ảnh tĩnh", không có chiều thời gian |
+| Sản phẩm phù hợp | Zeus Report: Bản đồ năng lượng 10 năm + gợi ý hành động cụ thể theo từng giai đoạn |
+| Product fit | Báo cáo sâu, độ chính xác cao |
+| Product gap | Zeus hiện thiên về phân tích tổng quan dài hạn — thiếu module "Quyết định nhanh" (Nên làm X hay Y trong 3 tháng tới?) |
+| Marketing direction | Hook vào nỗi đau quyết định cụ thể: nhảy việc, mở công ty, kết hôn. Ads framework PAS: Agitate → "Bạn đang do dự vì thiếu dữ liệu, không phải thiếu dũng khí" → Solution: Zeus report |
+
+---
+
+## Persona 2 — "Mất Kết Nối" · The Soul Searcher
+
+| Thuộc tính | Chi tiết |
+|---|---|
+| Độ tuổi | 25-28 |
+| Nghề nghiệp | Nhân viên văn phòng · Ngành sáng tạo (design, content, marketing) |
+| Vấn đề cốt lõi | Giỏi nhưng không thấy vui — cảm giác đang làm sai việc, sai nơi |
+| Động lực | Self-discovery dựa trên hệ thống sâu sắc hơn MBTI — muốn biết "DNA tư duy" thật sự của mình |
+| Rào cản hiện tại | App bói toán truyền thống: UX cũ, toàn chữ Hán Việt, không có hành động cụ thể |
+| Sản phẩm phù hợp | Artemis mini-tools (Career Weather, Love Match) → tạo "Wow moment" → upsell Zeus |
+| Product fit | Đúng hướng, là entry point để người dùng trải nghiệm và upsell lên full report. |
+| Product gap | Chưa ra mắt — phễu acquisition đang thiếu sản phẩm mồi cho nhóm này. Người dùng bị ném thẳng vào paywall 500k mà chưa có "Wow moment" |
+| Marketing direction | Ưu tiên launch Artemis trước (Daily Energy Check, Career Finder). Content strategy: viral "DNA tư duy" shareable cards trên TikTok/Instagram. Hook: "MBTI chỉ nói bạn là ai — Bát tự nói bạn nên làm gì tiếp theo" |
+
+---
+
+## Persona 3 — "Thực Chiến" · The Energy Strategist
+
+| Thuộc tính | Chi tiết |
+|---|---|
+| Độ tuổi | 35-45 |
+| Nghề nghiệp | Doanh nhân · HR Director · Team Lead |
+| Vấn đề cốt lõi | Quản trị con người quá mệt mỏi — cần hệ thống so khớp năng lượng để "đặt đúng người vào đúng việc" |
+| Động lực | Tối ưu ROI nhân sự qua "Bản đồ năng lượng" đội nhóm |
+| Rào cản hiện tại | Sợ bị coi là mê tín; cần ngôn ngữ khoa học / data-driven thay vì "phong thủy" |
+| Sản phẩm phù hợp | B2B pivot: HR Energy Scoring — đánh giá nhân sự bằng Bát tự, output dạng dashboard (chưa có) |
+| Product fit | Do B2B chưa có, Zeus cá nhân đáp ứng nhu cầu cá nhân của nhóm này |
+| Product gap | Không có sản phẩm B2B — phải tự tạo nhiều báo cáo riêng lẻ cho từng nhân viên, rất thủ công. Chưa có bulk-report hay team dashboard |
+| Marketing direction | Kênh LinkedIn + direct outreach tới HR Director, SME owner. Pitch: "Đặt đúng người vào đúng vị trí — dựa trên năng lượng, không phải cảm tính". Gói B2B dạng bundle (5–10 reports) với giá ưu đãi |
+
+---
+
+## PAIN MATRIX
+
+| Cấp độ | Nỗi đau | Hệ quả | Giải pháp 5Balance |
+|---|---|---|---|
+| **P0 · Sống còn** | Mất phương hướng sự nghiệp | Trầm cảm, mất thu nhập, bỏ lỡ cơ hội vàng | Bản đồ năng lượng 10 năm — Zeus Report |
+| **P1 · Căng thẳng** | Xung đột mối quan hệ (vợ chồng / team) | Đổ vỡ, môi trường làm việc độc hại | So khớp năng lượng — Cupid / Team Sync |
+| **P2 · Tiếc ích** | Không biết hôm nay nên làm gì | Lãng phí thời gian vào việc vô ích | Teaser hàng ngày — Artemis Mini-tools |
