@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../../Downloads/5balance_Biz-master"
 		}
 	],
 	"settings": {}
