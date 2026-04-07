@@ -11,7 +11,35 @@ Thế hệ Millennials (28–35 tuổi) tại Việt Nam đang đối mặt vớ
 - **Thầy bát tự truyền thống:** Chất lượng cao nhưng đắt (vài triệu/buổi), chờ lịch lâu và không thể scale.
 - **App tử vi/tâm lý phổ thông (MBTI, Co-Star):** Dễ tiếp cận nhưng quá nông — chỉ phản ánh trạng thái "tĩnh", không có chiều thời gian và không đưa ra hành động cụ thể.
 
-> **Khoảng trống thị trường:** Một giải pháp kết hợp độ chính xác của chuyên gia với sự tiện lợi của công nghệ, được cá nhân hóa hoàn toàn bằng AI.
+> **Lợi thế cạnh tranh từ góc độ sản phẩm:** 
+>
+> ## Ý nghĩa các lợi thế cạnh tranh của 5Balance.app
+>
+> ### 1. Sự chuẩn xác thông qua hệ thống hóa dữ liệu
+>
+> Lợi thế đầu tiên nằm ở khả năng  **nhất quán và không ngừng tự hoàn thiện** . Trong khi các phương pháp xem mệnh truyền thống phụ thuộc lớn vào trực giác và trạng thái tâm lý nhất thời của người xem (dẫn đến kết quả có thể thiếu ổn định), AI của ứng dụng vận hành dựa trên nền tảng dữ liệu lớn (Big Data).
+>
+> Hệ thống này không chỉ dừng lại ở các lý thuyết có sẵn mà còn có khả năng "học" từ phản hồi thực tế của hàng ngàn người dùng. Điều này tạo ra một vòng lặp tích cực: càng nhiều người sử dụng, hệ thống càng được tinh chỉnh để đưa ra những dự báo và lời khuyên có độ chính xác sát thực tế hơn, loại bỏ hoàn toàn các sai số do cảm tính cá nhân gây ra.
+>
+> ### 2. Cá nhân hóa sâu sắc nhờ năng lực lập luận
+>
+> Khác biệt lớn nhất giữa AI và các phần mềm tử vi thông thường chính là  **khả năng tư duy linh hoạt** . Các ứng dụng cũ thường hoạt động theo các thuật toán "nếu - thì" cứng nhắc, trả về những kết quả rập khuôn khiến người dùng cảm thấy mình chỉ là một bản sao trong một nhóm người chung chung.
+>
+> Ngược lại, AI của 5Balance đóng vai trò như một chuyên gia tư vấn tận tụy, không biết mệt mỏi. Nó có khả năng lập luận, xâu chuỗi các dữ kiện riêng biệt của từng cá nhân để đưa ra những nhận định độc bản. Thay vì đưa ra một công thức chung, ứng dụng hiểu được sự phức tạp trong lá số và hoàn cảnh của từng người để tùy biến lời khuyên, mang lại cảm giác được thấu hiểu như đang trò chuyện trực tiếp với một người tư vấn thật sự.
+>
+> ### 3. Sự giao thoa giữa trí tuệ cổ xưa và thực tại hiện đại
+>
+> Một điểm yếu của các bộ môn huyền học truyền thống là sự lạc hậu về mặt bối cảnh xã hội (ví dụ: các nghề nghiệp thời xưa không còn tương thích với kỷ nguyên số). 5Balance khắc phục triệt để điều này bằng cách **cập nhật hơi thở thời đại** vào hệ thống phân tích.
+>
+> Ứng dụng không chỉ đọc các chỉ số "tĩnh" mà còn kết hợp với tâm lý học hiện đại và các xu hướng thị trường lao động mới nhất. Điều này giúp các lời khuyên về định hướng sự nghiệp hay giải quyết xung đột mối quan hệ trở nên thực tế và có giá trị ứng dụng cao. Bạn sẽ nhận được những chỉ dẫn không chỉ đúng về mặt lý thuyết huyền học mà còn phù hợp với bối cảnh kinh tế - xã hội mà thế hệ Millennials đang trực tiếp đối mặt hàng ngày.
+>
+> ### 4. Hệ thống hóa huyền học bằng nhãn quan tâm lý học thực nghiệm
+>
+> Lợi thế đặc biệt này nằm ở việc  **"bắc cầu" giữa tâm linh và khoa học** , giúp người dùng không chỉ biết kết quả mà còn hiểu được căn nguyên của vấn đề thông qua các cơ chế logic:
+>
+> * **Lý giải các biểu hiện thông qua cơ chế tâm trí:** Trong khi Bát tự truyền thống thường chỉ đưa ra các kết luận mang tính định mệnh (ví dụ: "số bạn vất vả vì tình cảm"), thì tâm lý học hiện đại đi sâu vào lý giải các "mô thức hành vi" và "đặc điểm nhân cách" tạo nên kết cục đó. Bằng cách soi chiếu các yếu tố ngũ hành dưới góc độ các thiên hướng tâm lý, ứng dụng giúp người dùng nhận ra những cơ chế tiềm thức đang điều khiển quyết định của mình. Khi hiểu rõ "Tại sao tôi lại hành động như vậy?", sự hoang mang sẽ được thay thế bằng sự tự nhận thức rõ ràng.
+> * **Tăng tính thuyết phục nhờ logic và giả thuyết:** Một rào cản lớn của huyền học là tính "áp đặt" (tin hay không tùy bạn). 5Balance khắc phục điều này bằng cách sử dụng các giả thuyết tâm lý để minh chứng cho các kết luận của Bát tự. Khi một dự báo được đặt trên nền tảng logic — ví dụ: lý giải sự xung đột trong mối quan hệ thông qua sự khác biệt về phong cách gắn bó hoặc các ranh giới tâm lý — người dùng sẽ cảm thấy thuyết phục hơn. Điều này loại bỏ yếu tố "mê tín" và biến ứng dụng trở thành một công cụ phân tích khoa học, đáng tin cậy cho thế hệ Millennials vốn đề cao tư duy phản biện.
+> * **Chuyển hóa từ "kết luận" thành "giải pháp hành động":** Điểm yếu của huyền học thuần túy là thường dừng lại ở việc dự báo, khiến người dùng rơi vào trạng thái thụ động chờ đợi vận may hoặc lo sợ vận hạn. Việc kết hợp tâm lý học giúp ứng dụng đưa ra các  **giải pháp thực tế (Actionable insights)** . Thay vì chỉ nói về "hạn", ứng dụng sẽ chỉ ra những điều chỉnh trong thái độ, cách quản lý cảm xúc hoặc thay đổi thói quen giao tiếp để hóa giải vấn đề. Đây là bước ngoặt giúp người dùng chuyển từ thế bị động sang chủ động kiểm soát cuộc đời mình.
 
 ---
 
@@ -27,13 +55,13 @@ Thế hệ Millennials (28–35 tuổi) tại Việt Nam đang đối mặt vớ
 
 ### Hệ Sinh Thái Sản Phẩm (Zeus Architecture)
 
-| Tầng | Sản phẩm | Vai trò | Giá |
-|------|----------|---------|-----|
-| 1 | **ZEUS** | Động lực doanh thu — Báo cáo phân tích sâu 10 năm, 3 lớp Bát tự | ~500,000 VND/credit/full report |
-| 2 | **ARTEMIS** | Phễu thu hút — Mini-tools: Love Match · Career Weather · Wealth Luck | 50,000 – 200,000 VND |
-| 3 | **TITAN** | Hạ tầng AI — Bazi Math + LLM + GraphRAG + Expert Knowledge Base | Backend |
-| 4 | **CUPID** | Giữ chân — Chatbot AI coach cá nhân hóa 24/7 | Tích hợp/Subscription |
-| 5 | **ATHENA** | Quản trị — Funnel analytics, A/B testing, admin dashboard | Internal |
+| Tầng | Sản phẩm        | Vai trò                                                                     | Giá                            |
+| ----- | ----------------- | ---------------------------------------------------------------------------- | ------------------------------- |
+| 1     | **ZEUS**    | Động lực doanh thu — Báo cáo phân tích sâu 10 năm, 3 lớp Bát tự | ~500,000 VND/credit/full report |
+| 2     | **ARTEMIS** | Phễu thu hút — Mini-tools: Love Match · Career Weather · Wealth Luck    | 50,000 – 200,000 VND           |
+| 3     | **TITAN**   | Hạ tầng AI — Bazi Math + LLM + GraphRAG + Expert Knowledge Base           | Backend                         |
+| 4     | **CUPID**   | Giữ chân — Chatbot AI coach cá nhân hóa 24/7                           | Tích hợp/Subscription         |
+| 5     | **ATHENA**  | Quản trị — Funnel analytics, A/B testing, admin dashboard                 | Internal                        |
 
 ---
 
@@ -41,59 +69,59 @@ Thế hệ Millennials (28–35 tuổi) tại Việt Nam đang đối mặt vớ
 
 ### Persona 1 — "Ngã Rẽ" · The Crossroads Achiever
 
-| Thuộc tính | Chi tiết |
-|---|---|
-| Độ tuổi | 29–33 |
-| Nghề nghiệp | Quản lý cấp trung · Freelancer lâu năm · Startup founder |
-| Vấn đề cốt lõi | Đứng trước quyết định lớn (nhảy việc, mở công ty, kết hôn) nhưng không có cơ sở logic để tin vào bản thân |
-| Động lực | Tìm kiếm xác nhận từ dữ liệu để giảm bớt lo âu khi ra quyết định |
-| Rào cản hiện tại | Thầy bát tự đắt + chờ lâu; MBTI chỉ là "ảnh tĩnh", không có chiều thời gian |
-| Sản phẩm phù hợp | Zeus Report: Bản đồ năng lượng 10 năm + gợi ý hành động cụ thể theo từng giai đoạn |
-| Product fit | Báo cáo sâu, độ chính xác cao |
-| Product gap | Zeus hiện thiên về phân tích tổng quan dài hạn — thiếu module "Quyết định nhanh" (Nên làm X hay Y trong 3 tháng tới?) |
-| Marketing direction | Hook vào nỗi đau quyết định cụ thể: nhảy việc, mở công ty, kết hôn. Ads framework PAS: Agitate → "Bạn đang do dự vì thiếu dữ liệu, không phải thiếu dũng khí" → Solution: Zeus report |
+| Thuộc tính         | Chi tiết                                                                                                                                                                                                         |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Độ tuổi           | 29–33                                                                                                                                                                                                            |
+| Nghề nghiệp        | Quản lý cấp trung · Freelancer lâu năm · Startup founder                                                                                                                                                   |
+| Vấn đề cốt lõi  | Đứng trước quyết định lớn (nhảy việc, mở công ty, kết hôn) nhưng không có cơ sở logic để tin vào bản thân                                                                                 |
+| Động lực          | Tìm kiếm xác nhận từ dữ liệu để giảm bớt lo âu khi ra quyết định                                                                                                                                   |
+| Rào cản hiện tại | Thầy bát tự đắt + chờ lâu; MBTI chỉ là "ảnh tĩnh", không có chiều thời gian                                                                                                                        |
+| Sản phẩm phù hợp | Zeus Report: Bản đồ năng lượng 10 năm + gợi ý hành động cụ thể theo từng giai đoạn                                                                                                               |
+| Product fit          | Báo cáo sâu, độ chính xác cao                                                                                                                                                                              |
+| Product gap          | Zeus hiện thiên về phân tích tổng quan dài hạn — thiếu module "Quyết định nhanh" (Nên làm X hay Y trong 3 tháng tới?)                                                                            |
+| Marketing direction  | Hook vào nỗi đau quyết định cụ thể: nhảy việc, mở công ty, kết hôn. Ads framework PAS: Agitate → "Bạn đang do dự vì thiếu dữ liệu, không phải thiếu dũng khí" → Solution: Zeus report |
 
 ---
 
 ### Persona 2 — "Mất Kết Nối" · The Soul Searcher
 
-| Thuộc tính | Chi tiết |
-|---|---|
-| Độ tuổi | 25–28 |
-| Nghề nghiệp | Nhân viên văn phòng · Ngành sáng tạo (design, content, marketing) |
-| Vấn đề cốt lõi | Giỏi nhưng không thấy vui — cảm giác đang làm sai việc, sai nơi |
-| Động lực | Self-discovery dựa trên hệ thống sâu sắc hơn MBTI — muốn biết "DNA tư duy" thật sự của mình |
-| Rào cản hiện tại | App bói toán truyền thống: UX cũ, toàn chữ Hán Việt, không có hành động cụ thể |
-| Sản phẩm phù hợp | Artemis mini-tools (Career Weather, Love Match) → tạo "Wow moment" → upsell Zeus |
-| Product fit | Đúng hướng, là entry point để người dùng trải nghiệm và upsell lên full report |
-| Product gap | Chưa ra mắt — phễu acquisition đang thiếu sản phẩm mồi cho nhóm này. Người dùng bị ném thẳng vào paywall 500k mà chưa có "Wow moment" |
-| Marketing direction | Ưu tiên launch Artemis trước (Daily Energy Check, Career Finder). Content strategy: viral "DNA tư duy" shareable cards trên TikTok/Instagram. Hook: "MBTI chỉ nói bạn là ai — Bát tự nói bạn nên làm gì tiếp theo" |
+| Thuộc tính         | Chi tiết                                                                                                                                                                                                                             |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Độ tuổi           | 25–28                                                                                                                                                                                                                                |
+| Nghề nghiệp        | Nhân viên văn phòng · Ngành sáng tạo (design, content, marketing)                                                                                                                                                             |
+| Vấn đề cốt lõi  | Giỏi nhưng không thấy vui — cảm giác đang làm sai việc, sai nơi                                                                                                                                                            |
+| Động lực          | Self-discovery dựa trên hệ thống sâu sắc hơn MBTI — muốn biết "DNA tư duy" thật sự của mình                                                                                                                            |
+| Rào cản hiện tại | App bói toán truyền thống: UX cũ, toàn chữ Hán Việt, không có hành động cụ thể                                                                                                                                        |
+| Sản phẩm phù hợp | Artemis mini-tools (Career Weather, Love Match) → tạo "Wow moment" → upsell Zeus                                                                                                                                                   |
+| Product fit          | Đúng hướng, là entry point để người dùng trải nghiệm và upsell lên full report                                                                                                                                          |
+| Product gap          | Chưa ra mắt — phễu acquisition đang thiếu sản phẩm mồi cho nhóm này. Người dùng bị ném thẳng vào paywall 500k mà chưa có "Wow moment"                                                                            |
+| Marketing direction  | Ưu tiên launch Artemis trước (Daily Energy Check, Career Finder). Content strategy: viral "DNA tư duy" shareable cards trên TikTok/Instagram. Hook: "MBTI chỉ nói bạn là ai — Bát tự nói bạn nên làm gì tiếp theo" |
 
 ---
 
 ### Persona 3 — "Thực Chiến" · The Energy Strategist
 
-| Thuộc tính | Chi tiết |
-|---|---|
-| Độ tuổi | 35–45 |
-| Nghề nghiệp | Doanh nhân · HR Director · Team Lead |
-| Vấn đề cốt lõi | Quản trị con người quá mệt mỏi — cần hệ thống so khớp năng lượng để "đặt đúng người vào đúng việc" |
-| Động lực | Tối ưu ROI nhân sự qua "Bản đồ năng lượng" đội nhóm |
-| Rào cản hiện tại | Sợ bị coi là mê tín; cần ngôn ngữ khoa học / data-driven thay vì "phong thủy" |
-| Sản phẩm phù hợp | B2B pivot: HR Energy Scoring — đánh giá nhân sự bằng Bát tự, output dạng dashboard (chưa có) |
-| Product fit | Do B2B chưa có, Zeus cá nhân đáp ứng nhu cầu cá nhân của nhóm này |
-| Product gap | Không có sản phẩm B2B — phải tự tạo nhiều báo cáo riêng lẻ cho từng nhân viên, rất thủ công. Chưa có bulk-report hay team dashboard |
-| Marketing direction | Kênh LinkedIn + direct outreach tới HR Director, SME owner. Pitch: "Đặt đúng người vào đúng vị trí — dựa trên năng lượng, không phải cảm tính". Gói B2B dạng bundle (5–10 reports) với giá ưu đãi |
+| Thuộc tính         | Chi tiết                                                                                                                                                                                                                        |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Độ tuổi           | 35–45                                                                                                                                                                                                                           |
+| Nghề nghiệp        | Doanh nhân · HR Director · Team Lead                                                                                                                                                                                          |
+| Vấn đề cốt lõi  | Quản trị con người quá mệt mỏi — cần hệ thống so khớp năng lượng để "đặt đúng người vào đúng việc"                                                                                                    |
+| Động lực          | Tối ưu ROI nhân sự qua "Bản đồ năng lượng" đội nhóm                                                                                                                                                                 |
+| Rào cản hiện tại | Sợ bị coi là mê tín; cần ngôn ngữ khoa học / data-driven thay vì "phong thủy"                                                                                                                                         |
+| Sản phẩm phù hợp | B2B pivot: HR Energy Scoring — đánh giá nhân sự bằng Bát tự, output dạng dashboard (chưa có)                                                                                                                         |
+| Product fit          | Do B2B chưa có, Zeus cá nhân đáp ứng nhu cầu cá nhân của nhóm này                                                                                                                                                   |
+| Product gap          | Không có sản phẩm B2B — phải tự tạo nhiều báo cáo riêng lẻ cho từng nhân viên, rất thủ công. Chưa có bulk-report hay team dashboard                                                                         |
+| Marketing direction  | Kênh LinkedIn + direct outreach tới HR Director, SME owner. Pitch: "Đặt đúng người vào đúng vị trí — dựa trên năng lượng, không phải cảm tính". Gói B2B dạng bundle (5–10 reports) với giá ưu đãi |
 
 ---
 
 ### Pain Matrix
 
-| Cấp độ | Nỗi đau | Hệ quả | Giải pháp 5Balance |
-|---|---|---|---|
-| **P0 · Sống còn** | Mất phương hướng sự nghiệp | Trầm cảm, mất thu nhập, bỏ lỡ cơ hội vàng | Bản đồ năng lượng 10 năm — Zeus Report |
-| **P1 · Căng thẳng** | Xung đột mối quan hệ (vợ chồng / team) | Đổ vỡ, môi trường làm việc độc hại | So khớp năng lượng — Cupid / Team Sync |
-| **P2 · Tiếc ích** | Không biết hôm nay nên làm gì | Lãng phí thời gian vào việc vô ích | Teaser hàng ngày — Artemis Mini-tools |
+| Cấp độ                    | Nỗi đau                                    | Hệ quả                                           | Giải pháp 5Balance                           |
+| ---------------------------- | -------------------------------------------- | -------------------------------------------------- | ---------------------------------------------- |
+| **P0 · Sống còn**   | Mất phương hướng sự nghiệp            | Trầm cảm, mất thu nhập, bỏ lỡ cơ hội vàng | Bản đồ năng lượng 10 năm — Zeus Report |
+| **P1 · Căng thẳng** | Xung đột mối quan hệ (vợ chồng / team) | Đổ vỡ, môi trường làm việc độc hại      | So khớp năng lượng — Cupid / Team Sync    |
+| **P2 · Tiếc ích**   | Không biết hôm nay nên làm gì          | Lãng phí thời gian vào việc vô ích          | Teaser hàng ngày — Artemis Mini-tools       |
 
 ---
 
@@ -110,6 +138,7 @@ Thế hệ Millennials (28–35 tuổi) tại Việt Nam đang đối mặt vớ
 ---
 
 ### Campaign A — Full Report (ZEUS) · Core Revenue
+
 **Budget: 70tr** · Meta 40tr · TikTok 20tr · Google 10tr
 
 **Mục tiêu:** Tiếp cận trực tiếp cold audience có intent + khai thác leads sẵn có
@@ -123,33 +152,37 @@ Thế hệ Millennials (28–35 tuổi) tại Việt Nam đang đối mặt vớ
 #### Paid Channels
 
 **Meta**
+
 - Cold - Interest: *"Tại sao bạn nỗ lực mãi mà chưa đến nơi? Câu trả lời nằm ở gốc rễ năng lượng"*
 - Cold - Lookalike: Lookalike từ 10,700 leads + buyers — nhắm người tương đồng hành vi
 - Retargeting: *"Bạn đã xem — đây mới là phần bạn thực sự cần"*
 - Ad Format: Video 30s–60s · Single Image
 
 **Google**
+
 - High Intent Searches: Keywords: "xem bát tự online", "tư vấn phong thủy sự nghiệp", "vận hạn 2026", "bản đồ năng lượng"
 - Cold Audience (Display + YouTube): Tiếp cận người đang đọc nội dung self-help, career — chưa biết đến 5Balance
 - Ad Format: Search ads · Banner + Video 15s
 
 **TikTok**
+
 - Cold: *"Sự nghiệp đang bị tắc? Có thể bạn đang đúng hướng nhưng sai thời điểm"*
 - Retargeting: Case study ẩn danh: *"Anh X nhảy việc đúng thời điểm — không phải may mắn"*
 - Ad Format: In-feed video 15–30s · Video case study
 
 #### Organic Channels
 
-| Kênh | Nội dung |
-|---|---|
-| Facebook | Case study ẩn danh: kết quả người dùng trước/sau — xây trust trực tiếp cho Zeus |
-| TikTok organic | Series giải mã vận hạn theo ngày sinh — tạo curiosity, CTA "Xem báo cáo đầy đủ" |
-| Blog / SEO | Long-tail: "bát tự là gì", "xem vận hạn 2026", "tuổi 30 nên làm gì", "chọn nghề theo ngũ hành" |
-| Email | Sequence 5 email: insight Bát tự miễn phí → social proof → offer Zeus |
+| Kênh          | Nội dung                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------ |
+| Facebook       | Case study ẩn danh: kết quả người dùng trước/sau — xây trust trực tiếp cho Zeus                  |
+| TikTok organic | Series giải mã vận hạn theo ngày sinh — tạo curiosity, CTA "Xem báo cáo đầy đủ"                 |
+| Blog / SEO     | Long-tail: "bát tự là gì", "xem vận hạn 2026", "tuổi 30 nên làm gì", "chọn nghề theo ngũ hành" |
+| Email          | Sequence 5 email: insight Bát tự miễn phí → social proof → offer Zeus                                  |
 
 ---
 
 ### Campaign B — Mini Tools (ARTEMIS) · Launch khi Artemis hoàn thiện
+
 **Budget: 20tr** · Meta 12tr · TikTok 8tr
 
 **Mục tiêu:** Thu hút top-of-funnel, lấy Birth Data, tạo Wow Moment
@@ -163,88 +196,94 @@ Thế hệ Millennials (28–35 tuổi) tại Việt Nam đang đối mặt vớ
 #### Paid Channels
 
 **Meta**
+
 - Cold + Leads LAL 3%: *"Giỏi nhưng không thấy vui? Có thể bạn đang làm sai việc — không phải sai cách"*
 - Ad Format: Video 30s–60s · Single Image
 
 **TikTok**
+
 - Cold: *"MBTI chỉ nói bạn là ai — Bát tự nói bạn nên làm gì tiếp theo"*
 - Ad Format: In-feed video 15–30s
 
 #### Organic Channels
 
-| Kênh | Nội dung |
-|---|---|
-| Facebook | Seeding câu hỏi trong group Tâm lý học, Career, MBTI Vietnam |
+| Kênh          | Nội dung                                                                                                         |
+| -------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Facebook       | Seeding câu hỏi trong group Tâm lý học, Career, MBTI Vietnam                                                 |
 | TikTok organic | Founder/Creator chia sẻ "Bạn thuộc nguyên tố nào? Nó ảnh hưởng sự nghiệp thế nào" — CTA dùng tool |
 
 ---
 
 ### Campaign C — B2B HR Scoring & SME
+
 **Budget: 10tr**
 
 **Phụ thuộc vào việc build sản phẩm B2B HR Energy Scoring**
 
 **ICP chủ lực:** Persona 3 — "Thực Chiến" (35–45 tuổi)
 
-| Kênh | Chiến thuật |
-|---|---|
-| LinkedIn Ads | Target HR Director, CEO SME — *"Đặt đúng người vào đúng vị trí — dựa trên dữ liệu, không phải cảm tính"* |
-| Direct Outreach | Cold email + LinkedIn DM tới danh sách HR Director tại các SME TP.HCM, Hà Nội |
-| Đối tác chiến lược | Hợp tác với các công ty tư vấn nhân sự, coworking space, business club |
+| Kênh                    | Chiến thuật                                                                                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| LinkedIn Ads             | Target HR Director, CEO SME —*"Đặt đúng người vào đúng vị trí — dựa trên dữ liệu, không phải cảm tính"* |
+| Direct Outreach          | Cold email + LinkedIn DM tới danh sách HR Director tại các SME TP.HCM, Hà Nội                                            |
+| Đối tác chiến lược | Hợp tác với các công ty tư vấn nhân sự, coworking space, business club                                                |
 
 ---
 
 ## 4. KPI
 
 ### Campaign A — Full Report (ZEUS) · Core Revenue
+
 **Mục tiêu: Sales**
 
-| Metric | KPI |
-|---|---|
-| CPA | 80,000 – 150,000 VND |
-| Conversion Rate (Cold) | 1.5% – 3% |
-| Conversion Rate (Retargeting) | 4% – 8% |
-| ROAS | 4.0 – 7.5 |
+| Metric                        | KPI                   |
+| ----------------------------- | --------------------- |
+| CPA                           | 80,000 – 150,000 VND |
+| Conversion Rate (Cold)        | 1.5% – 3%            |
+| Conversion Rate (Retargeting) | 4% – 8%              |
+| ROAS                          | 4.0 – 7.5            |
 
 ---
 
 ### Campaign B — Mini Tools (ARTEMIS) · Launch khi Artemis hoàn thiện
+
 **Mục tiêu: Kéo traffic rẻ nhất để thu thập Birth Data**
 
-| Metric | KPI |
-|---|---|
-| CPC | 1,500 – 3,000 VND |
-| CPL | 8,000 – 15,000 VND |
-| Conversion Rate | 10% – 15% |
+| Metric          | KPI                 |
+| --------------- | ------------------- |
+| CPC             | 1,500 – 3,000 VND  |
+| CPL             | 8,000 – 15,000 VND |
+| Conversion Rate | 10% – 15%          |
 
 ---
 
 ### Campaign C — B2B HR Scoring & SME
+
 **Mục tiêu: Lan tỏa thương hiệu nội bộ, giảm CPC/CPA cho A & B**
 
-| Metric | KPI |
-|---|---|
-| CPM | 15,000 – 25,000 VND |
-| Engagement Rate | 8% – 15% |
+| Metric          | KPI                  |
+| --------------- | -------------------- |
+| CPM             | 15,000 – 25,000 VND |
+| Engagement Rate | 8% – 15%            |
 
 ---
 
 ## 5. Roadmap 2026
 
-| Campaign | Hoạt động | Start Date |
-|---|---|---|
-| **Campaign A · ZEUS** | Triển khai Meta Ads — Retargeting + Cold Targeting | 15/04 |
-| | Triển khai Google Ads hứng phễu BOF | 15/04 |
-| | Triển khai TikTok Cold Targeting | 15/04 |
-| | Scale on winning ads | 01/05 |
-| | Tách budget để chạy target B2B cho HR/SMEs | 01/10 |
-| **Campaign B · ARTEMIS** | Triển khai Meta + TikTok Ads — A/B test creative | 01/06 |
-| | Scale on winning ads | 01/07 |
-| | Scale mạnh Retargeting để upsell gói Zeus | 01/08 |
-| **Campaign C · B2B** | Xây dựng Landing Page cho B2B | 01/09 |
-| | Chuẩn bị Whitepaper | 01/09 |
-| | Triển khai LinkedIn Ads | 15/10 |
-| | Cold / Direct Outreach | 15/10 |
+| Campaign                        | Hoạt động                                         | Start Date |
+| ------------------------------- | ---------------------------------------------------- | ---------- |
+| **Campaign A · ZEUS**    | Triển khai Meta Ads — Retargeting + Cold Targeting | 15/04      |
+|                                 | Triển khai Google Ads hứng phễu BOF               | 15/04      |
+|                                 | Triển khai TikTok Cold Targeting                    | 15/04      |
+|                                 | Scale on winning ads                                 | 01/05      |
+|                                 | Tách budget để chạy target B2B cho HR/SMEs       | 01/10      |
+| **Campaign B · ARTEMIS** | Triển khai Meta + TikTok Ads — A/B test creative   | 01/06      |
+|                                 | Scale on winning ads                                 | 01/07      |
+|                                 | Scale mạnh Retargeting để upsell gói Zeus        | 01/08      |
+| **Campaign C · B2B**     | Xây dựng Landing Page cho B2B                      | 01/09      |
+|                                 | Chuẩn bị Whitepaper                                | 01/09      |
+|                                 | Triển khai LinkedIn Ads                             | 15/10      |
+|                                 | Cold / Direct Outreach                               | 15/10      |
 
 ```
 T4     T5     T6     T7     T8     T9     T10    T11    T12
